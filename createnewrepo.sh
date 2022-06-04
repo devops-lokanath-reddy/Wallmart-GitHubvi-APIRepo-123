@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin git@github.com:devops-lokanath-reddy/Wallmart-GitHubvi-APIRepo-123.git
 git push -u origin main
 echo "New repository has been created"
+echo " script execution has been completed "
